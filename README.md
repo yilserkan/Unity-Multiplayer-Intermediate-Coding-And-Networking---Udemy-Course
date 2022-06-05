@@ -6,7 +6,7 @@ This game is a multiplayer strategy game. The players are playing against each o
 My main motivation by following this course and creating this game was to learn how multiplayer works. This course thought me the basics of Mirror.
 
 ## Client Server Modelling
-Client-server model is a structrue which consists of servers and clients. Servers are service providers and clients are service requesters. In this model the servers are authorizing everything. The most basic explanation of this model  Clients are telling to the servers which actions they want to do. The server validates these actions and broadcasts them to every client.
+Client-server model is a structrue which consists of servers and clients. Servers are service providers and clients are service requesters. In this model the servers are authorizing everything. The most basic explanation of this model is that the clients are telling to the servers which actions they want to do. The servers validatesthese actions and broadcasts them to all clients.
 
 ## Mirror Remote Actions And Synchronization
 
