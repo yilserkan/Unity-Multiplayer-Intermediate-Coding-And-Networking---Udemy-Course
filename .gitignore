@@ -9,6 +9,18 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/Assets/Materials/
+/Assets/Mirror/
+/Assets/Models/
+/Assets/Prefabs/
+/Assets/Presets/
+/Assets/Settings/
+/Assets/Sprites/
+/Assets/Tank Assets/
+/Assets/TextMesh Pro/
+
+
+/Mirror*
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
