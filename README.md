@@ -22,4 +22,9 @@ SyncVars are variables whhich are synchronized from the server on all clients.
 
 ## Key Takeaways
 - How to use Mirror
-- 
+- How to use and trigger events
+
+## Game Screenshots
+![Screenshot 2022-06-05 150444](https://user-images.githubusercontent.com/80252098/172049735-f5c7f08f-b5c1-48b5-87be-fb25e245ffe3.png)
+![Screenshot 2022-06-05 150630](https://user-images.githubusercontent.com/80252098/172049736-8610c96d-00b0-4815-b95a-2435205bf46c.png)
+![Screenshot 2022-06-05 150812](https://user-images.githubusercontent.com/80252098/172049739-fde13c33-6390-4d32-a808-b0ddf4f6bb28.png)
